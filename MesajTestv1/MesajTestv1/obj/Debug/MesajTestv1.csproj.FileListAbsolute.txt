@@ -1,0 +1,11 @@
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\bin\Debug\MesajTestv1.exe.config
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\bin\Debug\MesajTestv1.exe
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\bin\Debug\MesajTestv1.pdb
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.Form1.resources
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.Properties.Resources.resources
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.exe
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.pdb
+C:\Users\legen\source\repos\MesajTestv1\MesajTestv1\obj\Debug\MesajTestv1.Form2.resources
